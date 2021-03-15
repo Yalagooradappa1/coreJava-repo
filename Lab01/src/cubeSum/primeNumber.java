@@ -1,7 +1,7 @@
 /**
  * Name : Yalagooradappa Hebbal
- * Description : Assignment1
- * Date :
+ * Description : Lab 01
+ * Date : 14/03/2021
  */
 package cubeSum;
 
